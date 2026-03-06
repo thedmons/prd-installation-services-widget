@@ -7,7 +7,7 @@
 
 This repository contains the product requirements, system design, and API specification for a configurable, stepped-form widget designed to replace 40+ individually maintained installation service forms across 7 categories on a large home improvement retailer's e-commerce platform. The widget was designed to guide customers through service selection, adapt its data collection experience based on service type, and consolidate all leads into a single Microsoft Dynamics CRM endpoint — replacing a fragmented landscape of inconsistently routed, untracked forms with a single maintainable, measurable experience.
 
-This initiative reached full UX prototype and user testing completion and was in active elaboration with development before being deprioritized in favor of the platform migration.
+This initiative advanced through full discovery — product vision artifacts, UX-owned prototypes, and user testing all completed — and was in active development elaboration before being deprioritized in favor of the platform migration.
 
 📄 **[Read the full PRD →](./prd-installation-services-widget.md)**
 🏛️ **[Read the System Design →](./system-design-caas-installation-services.md)**
