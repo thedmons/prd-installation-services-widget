@@ -44,6 +44,16 @@ This initiative reached full UX prototype and user testing completion and was in
 
 ## Related Artifacts
 
+**In this repository:**
+
+| Artifact | Description |
+|---|---|
+| [PRD: Installation Services Lead Capture Widget](./prd-installation-services-widget.md) | Full product requirements — widget flow, service types, display types, CRM integration, CAAS config |
+| [System Design: CAAS Architecture](./system-design-caas-installation-services.md) | Component architecture, state machine, data flow, Dynamics integration, config dashboard, analytics |
+| [API Spec: CAAS Lead Capture](./api-spec-caas-installation-services.md) | Full API contracts for config retrieval, lead submission, and service management |
+
+**Related portfolio artifacts:**
+
 | Artifact | Description |
 |---|---|
 | [PRD: E-Commerce CMS Platform Migration](https://github.com/thedmons/prd-ecommerce-cms-migration) | Platform migration that caused this initiative to be deprioritized — AEM to in-house headless CMS on Google Cloud |
