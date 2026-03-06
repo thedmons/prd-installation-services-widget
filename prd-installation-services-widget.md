@@ -36,7 +36,7 @@
 
 ## 1. Overview
 
-This document defines the product requirements for the **Content as a Service (CAAS) Installation Services Lead Capture Widget** — a configurable, stepped-form experience designed to replace 40+ individually maintained installation service forms across 7 service categories with a single, guided adaptive flow that routes customers to the correct experience based on their selected service type.
+This document defines the product requirements for the **Installation Services Lead Capture Widget** — a configurable, stepped-form experience designed to replace 40+ individually maintained installation service forms across 7 service categories with a single, guided adaptive flow that routes customers to the correct experience based on their selected service type.
 
 The widget was designed to operate in two modes: as a standalone end-to-end experience, and as a configurable component scoped to a specific service or category and embedded on category or department landing pages — bringing lead capture closer to where customers were already browsing and most likely to convert.
 
