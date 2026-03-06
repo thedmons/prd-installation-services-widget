@@ -23,7 +23,7 @@ This initiative reached full UX prototype and user testing completion and was in
 
 **Dual-mode component design** — The widget was designed to operate as both a standalone end-to-end experience and as a configurable component embeddable on category and landing pages — scoped to a specific service or category. This reflects a deliberate strategy to bring lead capture closer to where customers were already browsing rather than requiring navigation to a separate page.
 
-**Discovery-to-deprioritization transparency** — This PRD documents an initiative that was validated but never shipped. UX prototypes were completed, user testing was conducted, and development elaboration was underway when the initiative was deprioritized following the acceleration of the platform migration. Section 13 documents this honestly — including what was completed, what wasn't, and why. Showing how a PM handles a deprioritized initiative with validated work is as meaningful as a shipped feature.
+**Discovery-to-deprioritization transparency** — This PRD documents an initiative that was validated but never shipped. Product vision artifacts were created, UX-owned prototypes were built and user tested, and development elaboration was underway when the initiative was deprioritized following the acceleration of the platform migration. Section 13 documents this honestly — including what was completed, what wasn't, and why. Showing how a PM handles a deprioritized initiative with validated work is as meaningful as a shipped feature.
 
 **Consolidated lead management** — The PRD scopes Microsoft Dynamics as the single lead endpoint across all service types — replacing a legacy system split across Salesforce and email routing — and defines field mapping, service type attribution, and retry logic for failed submissions.
 
@@ -33,7 +33,7 @@ This initiative reached full UX prototype and user testing completion and was in
 
 ## Wireframes
 
-The following wireframes were produced during discovery and reached full UX prototype stage before the initiative was deprioritized. All screens reflect the validated design at the point of deprioritization.
+The following wireframes were created during early discovery to communicate product vision — illustrating the intended flow, display types, and page placement contexts. These served as inputs to UX, who developed higher-fidelity prototypes for user testing. All screens reflect the product vision as defined during discovery.
 
 ### Lead UI Flow
 Full decision tree across Customer, CAAS, Landing Page, API, and Lead Capture swim lanes — including override logic, service type determination, and terminal states.
