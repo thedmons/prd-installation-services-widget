@@ -12,6 +12,7 @@ This initiative advanced through full discovery — product vision artifacts, UX
 📄 **[Read the full PRD →](./prd-installation-services-widget.md)**
 🏛️ **[Read the System Design →](./system-design-caas-installation-services.md)**
 🔌 **[Read the API Spec →](./api-spec-caas-installation-services.md)**
+⚙️ **[See the Prototype →](https://github.com/thedmons/caas-widget-poc)**
 
 ---
 
